@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>97DBB965-A82C-4058-B188-52F0634EBF8A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TOLC</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B76DAB8D12E15355229BB49C12946DBCD7F18B1F</key>
+		<string>https://bitbucket.org/rahulgani/locationbased.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TOLC.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B76DAB8D12E15355229BB49C12946DBCD7F18B1F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/rahulgani/locationbased.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B76DAB8D12E15355229BB49C12946DBCD7F18B1F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B76DAB8D12E15355229BB49C12946DBCD7F18B1F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>locationbasedlatest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
